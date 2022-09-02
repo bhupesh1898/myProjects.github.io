@@ -82,13 +82,14 @@ body {
 }
 
 .gal img{
-    width: 500px;
+    width: 450px;
     float: left;
     margin-left: 11%;
+    margin-bottom: 8.4%;
     
     border: maroon;
     border-radius: 72px;
-    box-shadow: 0 0 60px 0 maroon;
+    box-shadow: 0 0 120px 0 maroon;
 }
 
 .gal img:hover{
@@ -105,6 +106,11 @@ body {
 }
 .mygal{
     padding: 1%;
+}
+
+.gal{
+    padding-right: 2%;
+    
 }
 
 .fac{
